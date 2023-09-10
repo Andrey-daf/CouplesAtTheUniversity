@@ -1,0 +1,11 @@
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\bin\Debug\PictureViewer_первая_пара.exe.config
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\bin\Debug\PictureViewer_первая_пара.exe
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\bin\Debug\PictureViewer_первая_пара.pdb
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.csproj.AssemblyReference.cache
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.Form1.resources
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.Properties.Resources.resources
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.csproj.GenerateResource.cache
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.csproj.CoreCompileInputs.cache
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.exe
+C:\Users\kirno\OneDrive\Рабочий стол\PictureViewer_-_--master\PictureViewer_первая_пара\obj\Debug\PictureViewer_первая_пара.pdb
